@@ -2,7 +2,7 @@
 An Android based Application focusing on providing safety services and overall support to women .The application aims to build a user friendly interface and act as a resource bank in times of emergency as well as day-to-day issue helpline. 
 It consists of facilities consisting of guidance such as medical support facilities,location tracking and helpline access.
 
-Features :
+**Features :**
 
 1.An android app which can INSTANTLY alert the Guardians(along with user location) whenever the user is in an emergency situation. It can be triggered just by shaking the android device in which the app is installed.
 2.Location tracking and sharing in case of emergency using GPS
