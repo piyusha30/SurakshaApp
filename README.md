@@ -5,10 +5,15 @@ It consists of facilities consisting of guidance such as medical support facilit
 **Features :**
 
 1.An android app which can INSTANTLY alert the Guardians(along with user location) whenever the user is in an emergency situation. It can be triggered just by shaking the android device in which the app is installed.
-2.Location tracking and sharing in case of emergency using GPS
+
+2.Location tracking and sharing in case of emergency using GPS.
+
 3.Calling option to the emergency services like Police,ambulance and fire helpline in case of high alert situation.
+
 4.Women and Child mental health and trauma healing helpline.
+
 5.Use fake emergency call (incase network is unavailable) option to help scare the attacker during an emergency!
+
 6. Module wise Scope. 
   Location tracking: It helps in tracking location continuously through GPS application program interface and sends it to the respective guardians and pin specific location to emergency helplines.
 
